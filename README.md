@@ -1,4 +1,3 @@
-MVC_Ecommerce
+Auzre Service Bus Demo
 =============
 
-MVC_Shopping
