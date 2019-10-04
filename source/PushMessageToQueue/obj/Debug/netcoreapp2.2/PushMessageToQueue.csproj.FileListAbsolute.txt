@@ -1,0 +1,11 @@
+D:\project test\service bus\PushMessageToQueue\PushMessageToQueue\bin\Debug\netcoreapp2.2\PushMessageToQueue.deps.json
+D:\project test\service bus\PushMessageToQueue\PushMessageToQueue\bin\Debug\netcoreapp2.2\PushMessageToQueue.runtimeconfig.json
+D:\project test\service bus\PushMessageToQueue\PushMessageToQueue\bin\Debug\netcoreapp2.2\PushMessageToQueue.runtimeconfig.dev.json
+D:\project test\service bus\PushMessageToQueue\PushMessageToQueue\bin\Debug\netcoreapp2.2\PushMessageToQueue.dll
+D:\project test\service bus\PushMessageToQueue\PushMessageToQueue\obj\Debug\netcoreapp2.2\PushMessageToQueue.csprojAssemblyReference.cache
+D:\project test\service bus\PushMessageToQueue\PushMessageToQueue\obj\Debug\netcoreapp2.2\PushMessageToQueue.csproj.CoreCompileInputs.cache
+D:\project test\service bus\PushMessageToQueue\PushMessageToQueue\obj\Debug\netcoreapp2.2\PushMessageToQueue.AssemblyInfoInputs.cache
+D:\project test\service bus\PushMessageToQueue\PushMessageToQueue\obj\Debug\netcoreapp2.2\PushMessageToQueue.AssemblyInfo.cs
+D:\project test\service bus\PushMessageToQueue\PushMessageToQueue\bin\Debug\netcoreapp2.2\PushMessageToQueue.pdb
+D:\project test\service bus\PushMessageToQueue\PushMessageToQueue\obj\Debug\netcoreapp2.2\PushMessageToQueue.dll
+D:\project test\service bus\PushMessageToQueue\PushMessageToQueue\obj\Debug\netcoreapp2.2\PushMessageToQueue.pdb

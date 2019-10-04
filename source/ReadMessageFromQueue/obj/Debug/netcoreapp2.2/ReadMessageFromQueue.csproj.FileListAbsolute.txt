@@ -1,0 +1,11 @@
+D:\project test\service bus\PushMessageToQueue\ReadMessageFromQueue\bin\Debug\netcoreapp2.2\ReadMessageFromQueue.deps.json
+D:\project test\service bus\PushMessageToQueue\ReadMessageFromQueue\bin\Debug\netcoreapp2.2\ReadMessageFromQueue.runtimeconfig.json
+D:\project test\service bus\PushMessageToQueue\ReadMessageFromQueue\bin\Debug\netcoreapp2.2\ReadMessageFromQueue.runtimeconfig.dev.json
+D:\project test\service bus\PushMessageToQueue\ReadMessageFromQueue\bin\Debug\netcoreapp2.2\ReadMessageFromQueue.dll
+D:\project test\service bus\PushMessageToQueue\ReadMessageFromQueue\obj\Debug\netcoreapp2.2\ReadMessageFromQueue.csprojAssemblyReference.cache
+D:\project test\service bus\PushMessageToQueue\ReadMessageFromQueue\obj\Debug\netcoreapp2.2\ReadMessageFromQueue.csproj.CoreCompileInputs.cache
+D:\project test\service bus\PushMessageToQueue\ReadMessageFromQueue\obj\Debug\netcoreapp2.2\ReadMessageFromQueue.AssemblyInfoInputs.cache
+D:\project test\service bus\PushMessageToQueue\ReadMessageFromQueue\obj\Debug\netcoreapp2.2\ReadMessageFromQueue.AssemblyInfo.cs
+D:\project test\service bus\PushMessageToQueue\ReadMessageFromQueue\bin\Debug\netcoreapp2.2\ReadMessageFromQueue.pdb
+D:\project test\service bus\PushMessageToQueue\ReadMessageFromQueue\obj\Debug\netcoreapp2.2\ReadMessageFromQueue.dll
+D:\project test\service bus\PushMessageToQueue\ReadMessageFromQueue\obj\Debug\netcoreapp2.2\ReadMessageFromQueue.pdb
